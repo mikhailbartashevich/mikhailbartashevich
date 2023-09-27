@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Let me introduce myself in a few words. Responsible, creative, open-minded, friendly and ambitious web developer.
+I know how to improve your frontend development process 😉
 
 ### ⚒ &nbsp; Tecnhologies
 
